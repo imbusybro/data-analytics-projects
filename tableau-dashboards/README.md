@@ -46,4 +46,5 @@ The dashboard includes a **dynamic spotlight panel** that displays key metadata 
 
 ## Dashboard Preview
 
-*(Insert screenshot here)*
+<img width="2754" height="1560" alt="image" src="https://github.com/user-attachments/assets/4b7edb18-2cde-4b8f-aaf8-9d3b28b10027" />
+
